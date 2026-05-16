@@ -7,3 +7,22 @@
 #homePage {
 	font-family: georgia;
 }
+
+body {
+	background-color:lightblue;
+}
+
+th {
+	font-size: 20px;
+
+}
+
+td {
+	font-size: 20px;
+	font-style: italic;
+}
+
+table {
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
